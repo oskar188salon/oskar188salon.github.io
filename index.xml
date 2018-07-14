@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oskar 188</title>
+    <title>Oskar 188 Salon</title>
     <link>https://oskar188salon.github.io/</link>
-    <description>Recent content on Oskar 188</description>
+    <description>Recent content on Oskar 188 Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,29 +11,20 @@
     
     
     <item>
-      <title>Contact</title>
-      <link>https://oskar188salon.github.io/contact/</link>
+      <title>Gallery</title>
+      <link>https://oskar188salon.github.io/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oskar188salon.github.io/contact/</guid>
+      <guid>https://oskar188salon.github.io/gallery/</guid>
       <description>carried away</description>
     </item>
     
     <item>
-      <title>Service</title>
-      <link>https://oskar188salon.github.io/service/</link>
+      <title>Location</title>
+      <link>https://oskar188salon.github.io/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oskar188salon.github.io/service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://oskar188salon.github.io/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://oskar188salon.github.io/work/</guid>
+      <guid>https://oskar188salon.github.io/location/</guid>
       <description></description>
     </item>
     
